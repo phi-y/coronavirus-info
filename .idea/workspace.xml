@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4202d87d-4266-4641-b779-ad73265c3ec4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Ycu1Zm3XanxY325uZX5YbrHgFn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bin/serve" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jekyll" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/bin/serve" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4202d87d-4266-4641-b779-ad73265c3ec4" name="Default Changelist" comment="" />
+      <created>1583253989751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583253989751</updated>
+      <workItem from="1583253992578" duration="14746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583254083900">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="437" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/38.27.1882.1053@38.27.1882.1053" timestamp="1583254083900" />
+    <state x="690" y="358" width="567" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583254050792">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="690" y="358" width="567" height="397" key="#com.intellij.fileTypes.FileTypeChooser/38.27.1882.1053@38.27.1882.1053" timestamp="1583254050792" />
+    <state x="712" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583254498405">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="712" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/38.27.1882.1053@38.27.1882.1053" timestamp="1583254498405" />
+    <state x="653" y="277" width="642" height="560" key="#jekyll" timestamp="1583254113676">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="653" y="277" width="642" height="560" key="#jekyll/38.27.1882.1053@38.27.1882.1053" timestamp="1583254113676" />
+    <state x="757" y="315" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583254110445">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="757" y="315" width="424" height="491" key="FileChooserDialogImpl/38.27.1882.1053@38.27.1882.1053" timestamp="1583254110444" />
+  </component>
+</project>
